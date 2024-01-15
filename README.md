@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pranathi-3005
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ragapranathitanduru@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: My btech branch is metallurgy but I want to pursue metech in cse
